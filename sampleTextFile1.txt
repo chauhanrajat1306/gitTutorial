@@ -1,1 +1,2 @@
-This is a text file, text is ok
+This is a text file, text is ok 
+some new code changes updated.
